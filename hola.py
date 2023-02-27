@@ -5,7 +5,7 @@ import rich
 __version__ = "0.1"
 
 rich.print("[green]hola")
-time.sleep(3)
+time.sleep(4)
 rich.print("[red]dying")
 
 
