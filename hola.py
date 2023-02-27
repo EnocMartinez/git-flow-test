@@ -2,6 +2,6 @@
 import time
 
 print("hola")
-time.sleep(2)
+time.sleep(3)
 print("dying")
 
