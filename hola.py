@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 import time
+import rich
 
-print("hola")
+rich.print("[green]hola")
 time.sleep(2)
-print("dying")
+rich.print("[red]dying")
 
